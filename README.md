@@ -45,9 +45,9 @@ To empower citizens, oversight bodies, and government institutions with real-tim
 - USSD integration
 - SMS reporting
 - Lightweight mobile access
-
-## Tech Stack
 ```
+## Tech Stack
+
 ### Frontend
 - Next.js/React.js
 - Tailwind CSS
